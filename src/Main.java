@@ -1,5 +1,5 @@
 import java.util.Scanner; //Scanner class comes within the utility package, so make sure to import this inorder to use Scanner
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane; //JOptionPane class comes within the swing package
 
 public class Main {
     public static void main(String[] args) {
