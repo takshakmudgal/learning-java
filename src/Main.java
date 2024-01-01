@@ -42,5 +42,7 @@ public class Main {
         System.out.println("What are you doing these days?");
         fetchingInput.nextLine();
         System.out.println("Ohh that's cool!");
+
+        // Starting from new concepts and committing every day to GitHub.
     }
 }
